@@ -4,11 +4,11 @@
 
 After completing this exercise, you should be able to discuss or answer the following questions:
 
-- What data type is returned by an arithmetic operation?
-- What is string concatenation?
-- What purpose(s) does the `+` plus operator serve in JavaScript?
-- What data type is returned by comparing two values (`<`, `>`, `===`, etc)?
-- What does the `+=` "plus-equals" operator do?
+- What data type is returned by an arithmetic operation? number
+- What is string concatenation? create a new string by adding 2 or more strings
+- What purpose(s) does the `+` plus operator serve in JavaScript? addition of variables and concatenation of strings
+- What data type is returned by comparing two values (`<`, `>`, `===`, etc)? Boolean: true or false
+- What does the `+=` "plus-equals" operator do? add right hand variable value to existing left hand side variable
 
 ## Notes
 
