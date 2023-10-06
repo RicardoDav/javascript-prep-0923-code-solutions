@@ -4,13 +4,13 @@
 
 After completing this exercise, you should be able to discuss or answer the following questions:
 
-- What is the principal use of arrays?
+- What is the principal use of arrays? a special variable to hold more than one value
 
-- Describe the syntax (structure) of array-literals in JavaScript.
+- Describe the syntax (structure) of array-literals in JavaScript. const array_name = [item1, item2, ...];
 
-- What number represents the **first** index of an array?
+- What number represents the **first** index of an array? 0
 
-- How can you access the last element of an array?
+- How can you access the last element of an array? array [array.lenght - 1]
 
 ## Notes
 
