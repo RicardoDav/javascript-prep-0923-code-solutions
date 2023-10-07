@@ -6,8 +6,8 @@ console.log('Add two numbers exercise: ' + addTwoNumbersResult);
 function convertHourstoMinutes(hours) {
   return hours * 60;
 }
-const Hours = convertHourstoMinutes(2);
-console.log('Hours to Minutes exercise: ' + Hours);
+const minutes = convertHourstoMinutes(2);
+console.log('Hours to Minutes exercise: ' + minutes);
 function getGreeting(name) {
   return 'Hello ' + name + '!';
 }
